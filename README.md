@@ -12,6 +12,9 @@
 
 # Resultados.
   Imagen Original:
+  ![1024](https://user-images.githubusercontent.com/46872883/104534494-64614c00-55e2-11eb-9c64-e6ceb4a8548f.jpg)
+  
+  Imagen Resultante
 
 # Referencias.
 Pycuda: https://documen.tician.de/pycuda/
