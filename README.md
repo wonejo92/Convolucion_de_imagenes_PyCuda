@@ -6,5 +6,7 @@
 - six
 - Google Colab 
 
+# Ejecucion
+
 # Referencias
 Pycuda: https://documen.tician.de/pycuda/
