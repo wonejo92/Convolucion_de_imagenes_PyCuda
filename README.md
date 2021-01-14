@@ -14,7 +14,8 @@
   Imagen Original:
   ![1024](https://user-images.githubusercontent.com/46872883/104534494-64614c00-55e2-11eb-9c64-e6ceb4a8548f.jpg)
   
-  Imagen Resultante
+  Imagen Resultante:
+  ![5x5_4](https://user-images.githubusercontent.com/46872883/104534589-8d81dc80-55e2-11eb-91a1-6dfe8ddf4090.png)
 
 # Referencias.
 Pycuda: https://documen.tician.de/pycuda/
